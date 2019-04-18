@@ -2,7 +2,7 @@
 crspy.py
 collection of python functions
 
-(c) 2104 christopher.robertson.sherwood@gmail.com
+(c) 2106 christopher.robertson.sherwood@gmail.com
 
 """
 from pylab import *
